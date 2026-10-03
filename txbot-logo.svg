@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 160" role="img" aria-label="TXBOT">
+  <defs>
+    <linearGradient id="txb-green" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#00b88a"/>
+      <stop offset="1" stop-color="#00f0aa"/>
+    </linearGradient>
+    <linearGradient id="txb-red" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#ff6b7a"/>
+      <stop offset="1" stop-color="#c81e2e"/>
+    </linearGradient>
+  </defs>
+  <path d="M18 120 46 68l20 22L98 30" fill="none" stroke="url(#txb-green)" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M82 30h18v18" fill="none" stroke="url(#txb-green)" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M18 140h604" stroke="#273449" stroke-width="3"/>
+  <text x="120" y="114" fill="#f6f8fa" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="800">TX</text>
+  <text x="236" y="114" fill="url(#txb-green)" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="800">BOT</text>
+  <path d="M462 112 482 78l20 34z" fill="url(#txb-green)"/>
+  <path d="M512 40 532 74l20-34z" fill="url(#txb-red)"/>
+  <path d="M462 74h90" stroke="#273449" stroke-width="4"/>
+</svg>
